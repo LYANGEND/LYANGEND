@@ -6,13 +6,13 @@
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="Davids's Discord" width="22px" src="https://raw.githubusercontent.com/Mo7amedSMahdi/Mo7amedSMahdi/99a4c9b460e931c487f57ff92be6b86130f9d49a/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/devMo7amed">
+<a href="https://twitter.com/david_lyangenda">
   <img align="left" alt="Mohammed Salah | Twitter" width="22px" src="https://raw.githubusercontent.com/Mo7amedSMahdi/Mo7amedSMahdi/99a4c9b460e931c487f57ff92be6b86130f9d49a/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mohammed-mahdi-b20340162/">
+<a href="https://www.linkedin.com/in/davidlyangenda/">
   <img align="left" alt="Mohammeds's LinkedIN" width="22px" src="https://raw.githubusercontent.com/Mo7amedSMahdi/Mo7amedSMahdi/fb2ef083e2c16e5e7c59a205beb990f535ce1544/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/Mo7ammed.salah1/">
+<a href="https://web.facebook.com/profile.php?id=100012331508793">
   <img align="left" alt="Mohammeds's Facebook" width="22px" src="https://raw.githubusercontent.com/Mo7amedSMahdi/Mo7amedSMahdi/99a4c9b460e931c487f57ff92be6b86130f9d49a/assets/facebook.svg" />
 </a>
 
