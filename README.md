@@ -22,8 +22,7 @@
 
 Hi my name is David Lyangenda I am a Full-Stack Software Developer | Entrepreneur | Founder from Zambia
 
-I am a vigorous and multi-skilled software developer with hands-on experience in React, Redux, and JavaScript
-In my 4 months of experience in tech, I've developed extensive knowledge in 
+I am a vigorous and multi-skilled software developer with hands-on experience in React, Redux, and JavaScript, I've developed extensive knowledge in 
 - Front-end development: ReactJS | JavaScript | Redux| 
 - Back-end development: NodeJS | 
 - Databases: | MySql |
